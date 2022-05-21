@@ -27,7 +27,7 @@ const validCred = (un, pw) => {
     };
 
     localStorage.setItem('userData', JSON.stringify(userData));
-    window.location.href = "https://sadre1.github.io/bin-iot/index.html";
+    window.location.href = "https://sadre1.github.io/bin-iot/homepage.html";
 }
 
 // authentication
