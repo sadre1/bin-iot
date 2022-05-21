@@ -92,6 +92,7 @@
     margin: 0.5rem 0 0;
     width: -webkit-fill-available;
     transition: 0.25s;
+    text-decoration: none;
 }
 
 .follow-btn:hover {
